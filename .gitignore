@@ -1,0 +1,6 @@
+wp-config.php
+.backups/
+*.log
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/backup-*/
